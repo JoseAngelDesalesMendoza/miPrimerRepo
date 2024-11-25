@@ -8,3 +8,5 @@ Un commit mas desde github.
 Una actualizacion mas.
 
 Practicando con los pull request.
+
+Cambios desde el esitor de textos.
