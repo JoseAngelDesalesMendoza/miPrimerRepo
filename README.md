@@ -9,4 +9,4 @@ Una actualizacion mas.
 
 Practicando con los pull request.
 
-Cambios desde el esitor de textos.
+Cambios desde el editor de textos.
