@@ -13,3 +13,5 @@ Practicando con los pull request.
 Cambios desde el editor de textos.
 
 apiKey = "12345-abcde-67890-fghij"
+
+string stripeApiKey = "clave_sensible"
